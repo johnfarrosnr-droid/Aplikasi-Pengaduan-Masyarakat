@@ -145,3 +145,4 @@ GitHub: [https://github.com/johnfarrosnr-droid](https://github.com/johnfarrosnr-
 ---
 
 ⭐ Jangan lupa beri star jika project ini bermanfaat!
+# small update
